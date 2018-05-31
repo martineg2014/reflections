@@ -6,6 +6,10 @@ para que git tenga control del repositorio.
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+El staging area es usada por git para hacer un tracking de 
+los archivos a commitear. Me permite diferenciar que archivos
+quiero controlar y cuales no del working directory.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
