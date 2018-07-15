@@ -35,3 +35,11 @@ the diagram the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks se usa solamente para crear una copia de un repositorio de Github.com en mi cuenta de Github.
+Branches me permite crear una nueva rama (branch) de un proyecto de manera local para explorar una nueva caracteristica o 
+evaluar nuevas librerias, soluciones a un problema, etc.
+Clonar me permite obtener una copia local de un repositorio que se encuentra en otro lugar hosteado (como por ej github.com).
+ 
