@@ -43,3 +43,8 @@ Branches me permite crear una nueva rama (branch) de un proyecto de manera local
 evaluar nuevas librerias, soluciones a un problema, etc.
 Clonar me permite obtener una copia local de un repositorio que se encuentra en otro lugar hosteado (como por ej github.com).
  
+ What is the benefit of having a copy of the last known state of the remote stored locally?
+
+ Uno puede comparar antes de hacer un push lo que se estuvo trabajando remotamente para poder determinar 
+ si vale la pena sumar mis cambios o no. Quizas tambien puede haber mejoras que fueron solucionadas de una 
+ manera mas elegante que mis soluciones.
