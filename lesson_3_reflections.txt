@@ -48,3 +48,9 @@ Clonar me permite obtener una copia local de un repositorio que se encuentra en 
  Uno puede comparar antes de hacer un push lo que se estuvo trabajando remotamente para poder determinar 
  si vale la pena sumar mis cambios o no. Quizas tambien puede haber mejoras que fueron solucionadas de una 
  manera mas elegante que mis soluciones.
+
+ How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+ Usando otros sistemas de control de versiones como ser SVN. Aunque no conozco en detalle SVN, el mayor problema 
+ siempre se genera al momento de hacer los merges.
+ 
