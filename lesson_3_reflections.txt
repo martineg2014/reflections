@@ -58,5 +58,9 @@ Clonar me permite obtener una copia local de un repositorio que se encuentra en 
 
  Porque me permite evaluar una nueva alternativa sin tocar la version estable. Luego cuando estoy seguro que funciona bien
  puedo mergearla con la master y finalmente ver de subirla.
+ Agrego una nota en ingles que saque del capitulo 32 del curso de Udacity sobre porque uno debe hacer un branch cuando clona
+ un repositorio.: 
+
+ Note: You could make your changes directly to the master branch in your fork, but when contributing to a public repository, it’s standard practice to make the changes in a non-master branch within the fork. This way, you can easily keep your master branch up-to-date with master of the original repository, and merge changes from master into your branch when you are ready.
 
  
